@@ -13,7 +13,7 @@ installTheme(){
     echo "Installing theme..."
     cd /var/www/pterodactyl
     rm -r PurpleTheme-pterodactyl
-    git clone https://github.com/Octavstore/PurpleTheme-pterodactyl.git
+    git clone https://github.com/vaynhvh/ptreo-theme.git
     cd PurpleTheme-pterodactyl
     rm /var/www/pterodactyl/resources/scripts/PurpleTheme-pterodactyl.css
     rm /var/www/pterodactyl/resources/scripts/index.tsx
