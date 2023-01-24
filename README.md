@@ -2,7 +2,7 @@
 
 Install script:
 ```sh
-bash <(curl https://raw.githubusercontent.com/Octavstore/PurpleTheme-pterodactyl/main/install.sh)
+bash <(curl https://raw.githubusercontent.com/vaynhvh/ptreo-theme/main/install.sh)
 ```
 
 Screenshots:
